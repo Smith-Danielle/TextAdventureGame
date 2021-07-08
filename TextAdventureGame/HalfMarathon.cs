@@ -56,7 +56,7 @@ namespace TextAdventureGame
                     user.Station4();
                     Console.WriteLine($"Congratulations racer {user.RunnerNumber} you've made it to the finish line!");
                     Console.WriteLine("---------------------------------------------------------------------------------------");
-                    Console.WriteLine($"Here are your final stats: Time Lapsed = {user.Time} minute/s | Strength = {user.Strength} unit/s ");
+                    Console.WriteLine($"Here are your final stats: Time Lapsed = {user.Time} minute(s) | Strength = {user.Strength} unit(s) ");
                     Console.WriteLine("---------------------------------------------------------------------------------------");
                     user.Placement();
                 }
@@ -64,7 +64,7 @@ namespace TextAdventureGame
                 {
                     Console.WriteLine($"Congratulations racer {user.RunnerNumber} you've made it to the finish line!");
                     Console.WriteLine("---------------------------------------------------------------------------------------");
-                    Console.WriteLine($"Here are your final stats: Time Lapsed = {user.Time} minute/s | Strength = {user.Strength} unit/s ");
+                    Console.WriteLine($"Here are your final stats: Time Lapsed = {user.Time} minute(s) | Strength = {user.Strength} unit(s) ");
                     Console.WriteLine("---------------------------------------------------------------------------------------");
                     user.Placement();
                 }

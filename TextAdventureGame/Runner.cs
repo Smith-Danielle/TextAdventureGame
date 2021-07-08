@@ -88,7 +88,7 @@ namespace TextAdventureGame
                 do
                 {
                     Console.WriteLine("--------------------------------------------------------------------------------------------------------------");
-                    Console.WriteLine($"Racer {RunnerNumber}'s Current Stats: Time Lapsed = {Time} minute/s | Strength = {Strength} unit/s ");
+                    Console.WriteLine($"Racer {RunnerNumber}'s Current Stats: Time Lapsed = {Time} minute(s) | Strength = {Strength} unit(s) ");
                     Console.WriteLine("--------------------------------------------------------------------------------------------------------------");
                     Console.WriteLine("Resting Station 1");
                     Console.WriteLine("What would you like to do next? Please enter a number from the following.");
@@ -155,7 +155,7 @@ namespace TextAdventureGame
                 do
                 {
                     Console.WriteLine("--------------------------------------------------------------------------------------------------------------");
-                    Console.WriteLine($"Racer {RunnerNumber}'s Current Stats: Time Lapsed = {Time} minute/s | Strength = {Strength} unit/s ");
+                    Console.WriteLine($"Racer {RunnerNumber}'s Current Stats: Time Lapsed = {Time} minute(s) | Strength = {Strength} unit(s) ");
                     Console.WriteLine("--------------------------------------------------------------------------------------------------------------");
                     Console.WriteLine("Resting Station 2");
                     Console.WriteLine("What would you like to do next? Please enter a number from the following.");
@@ -224,7 +224,7 @@ namespace TextAdventureGame
                 do
                 {
                     Console.WriteLine("--------------------------------------------------------------------------------------------------------------");
-                    Console.WriteLine($"Racer {RunnerNumber}'s Current Stats: Time Lapsed = {Time} minute/s | Strength = {Strength} unit/s ");
+                    Console.WriteLine($"Racer {RunnerNumber}'s Current Stats: Time Lapsed = {Time} minute(s) | Strength = {Strength} unit(s) ");
                     Console.WriteLine("--------------------------------------------------------------------------------------------------------------");
                     Console.WriteLine("Resting Station 3");
                     Console.WriteLine("What would you like to do next? Please enter a number from the following.");
@@ -297,7 +297,7 @@ namespace TextAdventureGame
                 do
                 {
                     Console.WriteLine("--------------------------------------------------------------------------------------------------------------");
-                    Console.WriteLine($"Racer {RunnerNumber}'s Current Stats: Time Lapsed = {Time} minute/s | Strength = {Strength} unit/s ");
+                    Console.WriteLine($"Racer {RunnerNumber}'s Current Stats: Time Lapsed = {Time} minute(s) | Strength = {Strength} unit(s) ");
                     Console.WriteLine("--------------------------------------------------------------------------------------------------------------");
                     Console.WriteLine("Resting Station 4");
                     Console.WriteLine("What would you like to do next? Please enter a number from the following.");
